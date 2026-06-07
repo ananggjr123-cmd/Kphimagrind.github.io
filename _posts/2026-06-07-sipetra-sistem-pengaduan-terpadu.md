@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SIPETRA (Sistem Pengaduan Terpadu)"
-date: 2026-06-07 09:41:13
+date: 2026-06-07 09:48:24
 categories: PERATURAN  /  PERSUS
 ---
 
