@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "SIPETRA (Sistem Pengaduan Terpadu)"
-date: 2026-06-07 09:14:58
-categories: PERATURAN / PERSUS
+date: 2026-06-07 09:21:47
+categories: PERATURAN  /  PERSUS
 ---
 
 Silakan klik link di bawah ini untuk mengunduh atau melihat dokumen PDF:
